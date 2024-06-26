@@ -83,6 +83,10 @@
 ### DB
 <img src="src/main/resources/static/images/erd.png" alt="DB설계"/>
 
+### DB에 정상적으로 들어가는 모습
+<img src="src/main/resources/static/images/db1.jpg" alt="DB1"/>
+<img src="src/main/resources/static/images/db2.jpg" alt="DB2"/>
+
 ## 기능시연 영상 🎬
 
 ### 전체영화검색
